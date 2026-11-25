@@ -1,0 +1,5 @@
+type=Sedan
+km=61000
+price=5800
+sold_month=2
+sold_year=13

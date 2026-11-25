@@ -1,0 +1,5 @@
+type=Coupe
+km=48000
+price=13500
+sold_month=1
+sold_year=5

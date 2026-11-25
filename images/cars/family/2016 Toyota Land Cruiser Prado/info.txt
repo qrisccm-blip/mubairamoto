@@ -1,0 +1,5 @@
+type=SUV
+km=64000
+price=21500
+sold_month=2
+sold_year=9

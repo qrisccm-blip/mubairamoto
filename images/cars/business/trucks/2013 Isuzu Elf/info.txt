@@ -1,0 +1,5 @@
+type=Goods truck
+km=110000
+price=11500
+sold_month=0
+sold_year=5
