@@ -1,5 +1,0 @@
-client=
-city=
-date=
-car=
-quote=

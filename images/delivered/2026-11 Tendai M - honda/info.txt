@@ -1,5 +1,0 @@
-client=Tendai M.
-city=Bindura
-date=November 2026
-car= Nissan juke
-quote="amzing delivery no delays"

@@ -1,5 +1,0 @@
-client=Craigg G.
-city=Harare
-date=October 2026
-car=2017 Nissan X-trail
-quote=Smooth from payment to delivery. The van arrived exactly as promised.
