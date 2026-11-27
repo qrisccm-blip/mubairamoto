@@ -1,0 +1,5 @@
+client=Mr. and Mrs
+city=Bindura
+date=September 2026
+car=Toyota Hiace
+quote=Excellent car, arrived as described no hassles.

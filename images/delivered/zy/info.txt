@@ -1,0 +1,5 @@
+client=Mr. Craig.
+city=Bindura
+date=September 2026
+car= Toyota hiace
+quote=Excellent Car arrived on time, Great working with you

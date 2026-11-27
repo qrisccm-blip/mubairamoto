@@ -1,0 +1,5 @@
+client=Mrs Fifteen
+city=Bindura
+date=September 2026
+car=Hatchback
+quote=Smooth from payment to delivery. The car arrived exactly as promised

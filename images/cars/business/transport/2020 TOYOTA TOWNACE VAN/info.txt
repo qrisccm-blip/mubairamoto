@@ -1,0 +1,5 @@
+type=Van
+km=
+price=5200
+sold_month=6
+sold_year=30

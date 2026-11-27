@@ -1,0 +1,5 @@
+client=Tendai M.
+city=Bindura
+date=November 2026
+car= 2018 Nissan
+quote="amazing delivery no delays"
