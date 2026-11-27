@@ -1,0 +1,5 @@
+type=Hatchback
+km=58000
+price=3400
+sold_month=3
+sold_year=17

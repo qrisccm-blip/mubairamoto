@@ -1,0 +1,5 @@
+type=Tipper
+km=310000
+price=38000
+sold_month=1
+sold_year=4

@@ -1,0 +1,5 @@
+type=Super GL van
+km=78000
+price=15800
+sold_month=4
+sold_year=24
