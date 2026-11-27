@@ -1,5 +1,0 @@
-client=Craig G.
-city=Bindura
-date=October 2026
-car=2017 Nissan X-trail
-quote=Smooth from payment to delivery. The car arrived exactly as promised.

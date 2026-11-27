@@ -1,5 +1,0 @@
-type=Mini van
-km=80000
-price=5200
-sold_month=3
-sold_year=19

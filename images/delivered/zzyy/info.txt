@@ -1,5 +1,0 @@
-client=Mr. unnamed.
-city=Bindura
-date=October 2026
-car=Toyota HiAce 
-quote=Excellent Delivery no hassles 

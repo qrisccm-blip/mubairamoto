@@ -1,5 +1,0 @@
-client=Mr. Fifteen
-city=Bindura
-date=September 2026
-car=Hatchback
-quote="Excellent Car, great service, Look forward to continue working with you"
